@@ -163,4 +163,16 @@ This list will help you to decide and choose which skill and tech stack that you
 47. **LanceBase** - A forum and marketplace for freelancers, with a focus on tech and creative fields.
 
 ## Tools for Freelance Developer
+TBD
 
+## Gadgets for Freelance Developer
+TBD
+
+## Must-Know Legal Aspect For Freelance Developer
+TBD
+
+## Community For Freelance Developer
+TBD
+
+## Learning and Skill Development
+TBD
