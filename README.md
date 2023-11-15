@@ -10,107 +10,107 @@ Check on [How to Succeed in Freelancing](https://github.com/digital-marketing-en
 
 ## Common Freelance Developer Position
 This list will help you to decide and choose which skill and tech stack that you need to focus on. It is ranked from the most commonly sought position to the niche position.
-# Top 25 Freelance Developer Positions
+# Top 50 Freelance Developer Positions
 
-1. **Freelance Full-Stack Developer** - Skilled in both front-end and back-end technologies, capable of handling entire web development processes.
+1. **[Freelance Full-Stack Developer](https://www.coursera.org/articles/full-stack-developer)** - Skilled in both front-end and back-end technologies, capable of handling entire web development processes.
 
-2. **Freelance Front-End Developer** - Specializes in creating the user interface and experience of a web application using HTML, CSS, and JavaScript frameworks.
+2. **[Freelance Front-End Developer](https://www.coursera.org/articles/front-end-developer)** - Specializes in creating the user interface and experience of a web application using HTML, CSS, and JavaScript frameworks.
 
-3. **Freelance Back-End Developer** - Focuses on server-side development, database management, and application logic using languages like Python, Ruby, or PHP.
+3. **[Freelance Back-End Developer](https://www.coursera.org/articles/back-end-developer)** - Focuses on server-side development, database management, and application logic using languages like Python, Ruby, or PHP.
 
-4. **Freelance Web Developer** - General web development skills, often including both front-end and back-end development.
+4. **[Freelance Web Developer](https://www.coursera.org/articles/web-developer)** - General web development skills, often including both front-end and back-end development.
 
-5. **Freelance Mobile App Developer** - Develops mobile applications for platforms like iOS and Android, using Swift, Kotlin, or cross-platform technologies.
+5. **[Freelance Mobile App Developer](https://www.coursera.org/articles/mobile-app-development)** - Develops mobile applications for platforms like iOS and Android, using Swift, Kotlin, or cross-platform technologies.
 
-6. **Freelance JavaScript Developer** - Specializes in JavaScript programming, including frameworks and libraries like React, Angular, or Node.js.
+6. **[Freelance JavaScript Developer](https://www.toptal.com/javascript/job-description)** - Specializes in JavaScript programming, including frameworks and libraries like React, Angular, or Node.js.
 
-7. **Freelance Python Developer** - Skilled in Python, often used for web development, scripting, data analysis, and machine learning.
+7. **[Freelance Python Developer](https://www.coursera.org/articles/python-developer)** - Skilled in Python, often used for web development, scripting, data analysis, and machine learning.
 
-8. **Freelance Java Developer** - Focuses on Java development, suitable for enterprise-level applications, Android apps, and large systems.
+8. **[Freelance Java Developer](https://www.coursera.org/specializations/java-fullstack)** - Focuses on Java development, suitable for enterprise-level applications, Android apps, and large systems.
 
-9. **Freelance PHP Developer** - Expertise in PHP, commonly used for web development and server-side scripting.
+9. **[Freelance PHP Developer](https://www.toptal.com/php/job-description)** - Expertise in PHP, commonly used for web development and server-side scripting.
 
-10. **Freelance React Developer** - Specializes in the React JavaScript library for building user interfaces, particularly for single-page applications.
+10. **[Freelance React Developer](https://www.coursera.org/articles/react-developer)** - Specializes in the React JavaScript library for building user interfaces, particularly for single-page applications.
 
-11. **Freelance Ruby on Rails Developer** - Skilled in Ruby and the Rails framework, known for rapid development of web applications.
+11. **[Freelance Ruby on Rails Developer](https://www.indeed.com/career/ruby-on-rails-developer)** - Skilled in Ruby and the Rails framework, known for rapid development of web applications.
 
-12. **Freelance WordPress Developer** - Specializes in creating and customizing websites and blogs using WordPress.
+12. **[Freelance WordPress Developer](https://www.coursera.org/articles/wordpress-developer)** - Specializes in creating and customizing websites and blogs using WordPress.
 
-13. **Freelance iOS Developer** - Develops applications for Apple's iOS devices using Swift or Objective-C.
+13. **[Freelance iOS Developer](https://www.toptal.com/ios/job-description#:~:text=An%20iOS%20developer%20is%20responsible,%3A%20Objective%2DC%20or%20Swift.)** - Develops applications for Apple's iOS devices using Swift or Objective-C.
 
-14. **Freelance Android Developer** - Builds applications for Android devices using Java or Kotlin.
+14. **[Freelance Android Developer](https://www.toptal.com/android/job-description)** - Builds applications for Android devices using Java or Kotlin.
 
-15. **Freelance C# Developer** - Skilled in C#, often used for developing Windows applications, games (using Unity), and enterprise software.
+15. **[Freelance C# Developer](https://www.freelancermap.com/blog/what-does-c-developer-do/)** - Skilled in C#, often used for developing Windows applications, games (using Unity), and enterprise software.
 
-16. **Freelance UX/UI Developer** - Focuses on user experience and user interface design, ensuring applications are both functional and appealing.
+16. **[Freelance UX/UI Developer](https://intellipaat.com/blog/who-is-ui-ux-developer/)** - Focuses on user experience and user interface design, ensuring applications are both functional and appealing.
 
-17. **Freelance Data Scientist** - Specializes in data analysis, machine learning, and statistical modeling, often using Python or R.
+17. **[Freelance Data Scientist](https://www.coursera.org/articles/what-is-a-data-scientist)** - Specializes in data analysis, machine learning, and statistical modeling, often using Python or R.
 
-18. **Freelance Game Developer** - Develops video games for various platforms, skilled in game design, programming, and graphics.
+18. **[Freelance Game Developer](https://www.coursera.org/articles/game-developer)** - Develops video games for various platforms, skilled in game design, programming, and graphics.
 
-19. **Freelance Node.js Developer** - Specializes in using Node.js for server-side scripting and building scalable network applications.
+19. **[Freelance Node.js Developer](https://anywhere.epam.com/en/node-js-developer-job-description)** - Specializes in using Node.js for server-side scripting and building scalable network applications.
 
-20. **Freelance Angular Developer** - Focuses on developing applications using the Angular framework for dynamic web apps.
+20. **[Freelance Angular Developer](https://www.starkflow.co/blog/what-does-an-angular-developer-do)** - Focuses on developing applications using the Angular framework for dynamic web apps.
 
-21. **Freelance Shopify Developer** - Specializes in developing and customizing online stores using Shopify's eCommerce platform.
+21. **[Freelance Shopify Developer](https://www.charleagency.com/articles/what-is-a-shopify-developer/)** - Specializes in developing and customizing online stores using Shopify's eCommerce platform.
 
-22. **Freelance .NET Developer** - Skilled in Microsoft's .NET framework, used for a wide range of applications.
+22. **[Freelance .NET Developer](https://www.jobstreet.co.id/career-advice/role/dot-net-software-developer)** - Skilled in Microsoft's .NET framework, used for a wide range of applications.
 
-23. **Freelance SQL Developer** - Specializes in SQL database management, design, and development.
+23. **[Freelance SQL Developer](https://www.oracle.com/id/database/sqldeveloper/)** - Specializes in SQL database management, design, and development.
 
-24. **Freelance Laravel Developer** - Expertise in the Laravel PHP framework, known for elegant syntax and robust features.
+24. **[Freelance Laravel Developer](https://www.talentlyft.com/en/resources/php-laravel-developer-job-description)** - Expertise in the Laravel PHP framework, known for elegant syntax and robust features.
 
-25. **Freelance Machine Learning Engineer** - Focuses on developing systems and algorithms that can learn and make predictions, often using Python.
+25. **[Freelance Machine Learning Engineer](https://www.wgu.edu/career-guide/information-technology/machine-learning-engineer-career.html)** - Focuses on developing systems and algorithms that can learn and make predictions, often using Python.
 
-26. **Freelance Vue.js Developer** - Specializes in the Vue.js framework for building user interfaces and single-page applications.
+26. **[Freelance Vue.js Developer](https://www.ziprecruiter.com/Career/VUE-Developer/What-Is-How-to-Become)** - Specializes in the Vue.js framework for building user interfaces and single-page applications.
 
-27. **Freelance Swift Developer** - Develops native iOS and macOS applications using Swift, Apple's powerful programming language.
+27. **[Freelance Swift Developer](https://www.adaface.com/job-descriptions/swift-developer-job-description/)** - Develops native iOS and macOS applications using Swift, Apple's powerful programming language.
 
-28. **Freelance Drupal Developer** - Focuses on creating and managing content-driven websites using the Drupal CMS.
+28. **[Freelance Drupal Developer](https://befused.com/drupal/developer/?external_link=true)** - Focuses on creating and managing content-driven websites using the Drupal CMS.
 
-29. **Freelance Magento Developer** - Expert in developing and customizing eCommerce solutions using the Magento platform.
+29. **[Freelance Magento Developer](https://chudovo.com/magento-developer/)** - Expert in developing and customizing eCommerce solutions using the Magento platform.
 
-30. **Freelance Django Developer** - Specializes in Python's Django framework for rapid development of secure and maintainable websites.
+30. **[Freelance Django Developer](https://www.educative.io/path/become-a-django-developer)** - Specializes in Python's Django framework for rapid development of secure and maintainable websites.
 
-31. **Freelance Kubernetes Engineer** - Skilled in container orchestration using Kubernetes, enhancing application deployment and scalability.
+31. **[Freelance Kubernetes Engineer](https://nofluffjobs.com/log/work-in-it/what-characterizes-the-work-of-a-kubernetes-developer/)** - Skilled in container orchestration using Kubernetes, enhancing application deployment and scalability.
 
-32. **Freelance Blockchain Developer** - Develops blockchain applications, smart contracts, and working on decentralized technologies.
+32. **[Freelance Blockchain Developer](https://www.edureka.co/blog/how-to-become-blockchain-developer/)** - Develops blockchain applications, smart contracts, and working on decentralized technologies.
 
-33. **Freelance AR/VR Developer** - Focuses on developing Augmented Reality and Virtual Reality experiences and applications.
+33. **[Freelance AR/VR Developer](https://skillcrush.com/tech-jobs/ar-vr-developer/)** - Focuses on developing Augmented Reality and Virtual Reality experiences and applications.
 
-34. **Freelance Cloud Engineer** - Specializes in cloud computing platforms like AWS, Azure, or Google Cloud Platform.
+34. **[Freelance Cloud Engineer](https://www.techtarget.com/searchcloudcomputing/definition/cloud-engineer)** - Specializes in cloud computing platforms like AWS, Azure, or Google Cloud Platform.
 
-35. **Freelance DevOps Engineer** - Integrates development and operations for faster and more efficient project lifecycles.
+35. **[Freelance DevOps Engineer](https://www.atlassian.com/devops/what-is-devops/devops-engineer)** - Integrates development and operations for faster and more efficient project lifecycles.
 
-36. **Freelance IoT Developer** - Develops applications and solutions for the Internet of Things (IoT) devices and systems.
+36. **[Freelance IoT Developer](https://logicsimplified.com/newgames/what-exactly-does-developers-of-the-internet-of-things-do/)** - Develops applications and solutions for the Internet of Things (IoT) devices and systems.
 
-37. **Freelance React Native Developer** - Builds cross-platform mobile apps using the React Native framework.
+37. **[Freelance React Native Developer](https://www.indeed.com/career-advice/finding-a-job/how-to-become-react-native-developer)** - Builds cross-platform mobile apps using the React Native framework.
 
-38. **Freelance Electron Developer** - Specializes in building cross-platform desktop applications using Electron.
+38. **[Freelance Electron Developer](https://www.trio.dev/blog/electron-development-guide#:~:text=Visual%20Studio%20Code.-,What%20is%20an%20Electron%20Developer%3F,writing%20backend%20logic%20using%20JavaScript.)** - Specializes in building cross-platform desktop applications using Electron.
 
-39. **Freelance Flutter Developer** - Develops cross-platform mobile applications using Google's Flutter framework.
+39. **[Freelance Flutter Developer](https://www.spec-india.com/blog/flutter-developer)** - Develops cross-platform mobile applications using Google's Flutter framework.
 
-40. **Freelance Svelte Developer** - Focuses on building web apps with Svelte, a newer JavaScript framework for creating reactive web interfaces.
+40. **[Freelance Svelte Developer](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started#:~:text=Svelte%20is%20a%20compiler%20that,basics%20of%20how%20it%20works.)** - Focuses on building web apps with Svelte, a newer JavaScript framework for creating reactive web interfaces.
 
-41. **Freelance Cybersecurity Specialist** - Offers expertise in securing applications, networks, and systems against cyber threats.
+41. **[Freelance Cybersecurity Specialist](https://www.comptia.org/content/it-careers-path-roadmap/cybersecurity-specialist#:~:text=What%20is%20a%20Cybersecurity%20Specialist,containing%20and%20remediating%20IT%20threats.)** - Offers expertise in securing applications, networks, and systems against cyber threats.
 
-42. **Freelance Go Developer** - Specializes in using Go (Golang), particularly for high-performance and networked applications.
+42. **[Freelance Go Developer](https://fullscale.io/blog/what-is-a-golang-developer/)** - Specializes in using Go (Golang), particularly for high-performance and networked applications.
 
-43. **Freelance Scala Developer** - Works with Scala, often used for big data processing and complex algorithms.
+43. **[Freelance Scala Developer](https://www.revelo.com/blog/scala-developer)** - Works with Scala, often used for big data processing and complex algorithms.
 
-44. **Freelance Kotlin Developer** - Develops applications for Android and other platforms using Kotlin.
+44. **[Freelance Kotlin Developer](https://nofluffjobs.com/log/work-in-it/kotlin-what-is-it-and-how-to-become-a-kotlin-developer/)** - Develops applications for Android and other platforms using Kotlin.
 
-45. **Freelance Rust Developer** - Focuses on system-level programming, networked solutions, and performance-critical applications in Rust.
+45. **[Freelance Rust Developer](https://www.ko2.co.uk/how-to-become-a-rust-developer/)** - Focuses on system-level programming, networked solutions, and performance-critical applications in Rust.
 
-46. **Freelance Salesforce Developer** - Expert in customizing Salesforce CRM and developing applications on the Salesforce platform.
+46. **[Freelance Salesforce Developer](https://www.salesforce.com/blog/what-is-a-salesforce-developer/)** - Expert in customizing Salesforce CRM and developing applications on the Salesforce platform.
 
-47. **Freelance Perl Developer** - Specializes in Perl scripting for web development, system administration, and network programming.
+47. **[Freelance Perl Developer](https://www.softwareengineerinsider.com/careers/perl-developer.html)** - Specializes in Perl scripting for web development, system administration, and network programming.
 
-48. **Freelance Elixir Developer** - Works with Elixir, known for scalable and maintainable applications, often used with the Phoenix framework.
+48. **[Freelance Elixir Developer](https://www.quora.com/What-is-an-elixir-developer)** - Works with Elixir, known for scalable and maintainable applications, often used with the Phoenix framework.
 
-49. **Freelance Groovy Developer** - Skilled in Apache Groovy, a language for the Java platform aimed at improving developer productivity.
+49. **[Freelance Groovy Developer](https://devskiller.com/blog/screen-groovy-developers/)** - Skilled in Apache Groovy, a language for the Java platform aimed at improving developer productivity.
 
-50. **Freelance Embedded Systems Developer** - Develops software for embedded systems, requiring knowledge of both hardware and software.
+50. **[Freelance Embedded Systems Developer](https://www.betterteam.com/embedded-developer-job-description)** - Develops software for embedded systems, requiring knowledge of both hardware and software.
 
 ## Freelance Website
 
@@ -176,3 +176,7 @@ TBD
 
 ## Learning and Skill Development
 TBD
+
+## Data about Freelance Developer
+- Most sought languages for freelance
+- Income for freelance developer
