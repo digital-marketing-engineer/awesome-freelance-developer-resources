@@ -1,4 +1,5 @@
 # Awesome Freelance Developer Resources
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 A comprehensive collection dedicated to empowering freelance developers. This curated list brings together essential tools, cutting-edge technologies, and invaluable tips, covering aspects from project management and client communication, to coding tools, and business growth strategies. Designed for both budding and seasoned freelancers, it's your ultimate guide for navigating the freelance development landscape with confidence and skill. Dive into a world where productivity meets creativity, and elevate your freelance career to new heights.
 
