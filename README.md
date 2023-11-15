@@ -114,53 +114,55 @@ This list will help you to decide and choose which skill and tech stack that you
 
 ## Freelance Website
 
-1. **Upwork** - A versatile platform connecting freelancers with clients across various industries, including software development.
-2. **Freelancer** - Offers a wide array of projects, from small tasks to major development contracts.
-3. **Toptal** - An exclusive network for the top 3% of freelance software developers, designers, and finance experts.
-4. **Fiverr** - Popular for offering services in digital marketing, graphic design, programming, and more.
-5. **GitHub Jobs** - A platform for developers to find jobs in software development and related fields.
-6. **Stack Overflow Jobs** - Offers job listings in software development and other technical fields.
-7. **Gigster** - Connects tech professionals with businesses for project-based work.
-8. **PeoplePerHour** - Offers a range of freelance tasks, including web development and programming.
-9. **Hired** - A career marketplace for the world's knowledge workers, focusing on technology roles.
-10. **Gun.io** - Specializes in connecting freelance developers with clients requiring high-quality tech expertise.
-11. **Codeable.io** - Dedicated to connecting WordPress experts with clients.
-12. **FlexJobs** - Offers a variety of telecommuting and remote job opportunities, including in software development.
-13. **Authentic Jobs** - A job board for designers, developers, and creative professionals.
-14. **Dice** - A career website for technology and engineering professionals.
-15. **Behance** - Adobe’s platform where creative professionals showcase their work and find freelance projects.
-16. **Working Nomads** - Curates lists of remote job offerings for digital working nomads.
-17. **AngelList** - Connects startups with job seekers interested in tech and startup culture.
-18. **Guru** - Offers a range of freelance jobs, including plenty in software development and web design.
-19. **Arc** - Connects developers with companies for remote jobs.
-20. **Remote.co** - A resource for companies and freelancers focusing on remote employment opportunities.
-21. **CyberCoders** - A recruiting company that connects top tech talent with emerging companies.
+1. **[Upwork](https://www.upwork.com/)** - A versatile platform connecting freelancers with clients across various industries, including software development.
+2. **[Freelancer](https://www.freelancer.com/)** - Offers a wide array of projects, from small tasks to major development contracts.
+3. **[Toptal](https://www.toptal.com/)** - An exclusive network for the top 3% of freelance software developers, designers, and finance experts.
+4. **[Fiverr](https://www.fiverr.com/)** - Popular for offering services in digital marketing, graphic design, programming, and more.
+6. **[Stack Overflow Jobs](https://stackoverflow.com/jobs/companies)** - Offers job listings in software development and other technical fields.
+7. **[Gigster](https://gigster.com/)** - Connects tech professionals with businesses for project-based work.
+8. **[PeoplePerHour](https://www.peopleperhour.com/)** - Offers a range of freelance tasks, including web development and programming.
+9. **[Hired](https://hired.com/)** - A career marketplace for the world's knowledge workers, focusing on technology roles.
+10. **[Gun.io](https://gun.io/)** - Specializes in connecting freelance developers with clients requiring high-quality tech expertise.
+11. **[Codeable.io](https://www.codeable.io/)** - Dedicated to connecting WordPress experts with clients.
+12. **[FlexJobs](https://www.flexjobs.com/)** - Offers a variety of telecommuting and remote job opportunities, including in software development.
+13. **[Authentic Jobs](https://authenticjobs.com/)** - A job board for designers, developers, and creative professionals.
+14. **[Dice](https://www.dice.com/)** - A career website for technology and engineering professionals.
+15. **[Behance](https://www.behance.net/)** - Adobe’s platform where creative professionals showcase their work and find freelance projects.
+16. **[Working Nomads](https://www.workingnomads.com/jobs)** - Curates lists of remote job offerings for digital working nomads.
+17. **[AngelList](https://www.angellist.com/)** - Connects startups with job seekers interested in tech and startup culture.
+18. **[Guru](https://www.guru.com/)** - Offers a range of freelance jobs, including plenty in software development and web design.
+19. **[Arc](https://arc.dev/)** - Connects developers with companies for remote jobs.
+20. **[Remote.co](https://remote.co/)** - A resource for companies and freelancers focusing on remote employment opportunities.
+21. **[CyberCoders](https://www.cybercoders.com/)** - A recruiting company that connects top tech talent with emerging companies.
+23. **[Crossover](https://www.crossover.com/)** - Specializes in connecting companies with the best talent from around the world.
+24. **[SimplyHired](https://www.simplyhired.com/)** - A job search engine with a wide range of job listings, including tech and development roles.
+26. **[WordPress Jobs](https://jobs.wordpress.net/)** - Dedicated to job listings for all things WordPress.
+27. **[Dribbble](https://dribbble.com/)** - A community for showcasing user-made artwork and finding freelance design and development work.
+28. **[99designs](https://99designs.com/)** - Primarily a platform for freelance designers, but also offers development projects.
+29. **[DesignCrowd](https://www.designcrowd.com/)** - A custom design marketplace that also caters to web and app development.
+30. **[Topcoder](https://www.topcoder.com/)** - Hosts online coding competitions and offers freelance coding gigs.
+31. **[Ruby Now](https://jobs.rubynow.com/)** - A job board focused on Ruby on Rails developers.
+32. **[Remote OK](https://remoteok.com/)** - Provides a list of remote jobs, including development and software engineering roles.
+33. **[Laravel Jobs](https://larajobs.com/)** - A niche job board for Laravel PHP framework developers.
+34. **[React Jobs](https://www.react-jobs.com/)** - A dedicated platform for React developers looking for freelance or full-time roles.
+35. **[PowerToFly](https://powertofly.com/)** - Focuses on matching women in tech with remote and flexible jobs.
+36. **[Loom](https://twitter.com/joinloom)** - Connects developers with short-term freelance projects.
+37. **[We Work Remotely](https://weworkremotely.com/)** - Offers remote job listings, including programming and development roles.
+38. **[YunoJuno](https://www.yunojuno.com/)** - A UK-based platform connecting freelancers with leading brands and startups.
+39. **[Hirable](https://hirable.fyi/)** - Connects pre-vetted developers with freelance projects.
+40. **[Smashing Magazine Jobs](https://www.smashingmagazine.com/jobs/)** - Offers job listings in programming and web design, part of the Smashing Magazine community.
+41. **[The Muse](https://www.themuse.com/)** - Provides job search resources and listings, including tech and development roles.
+42. **[Outsourcely](https://www.outsourcely.com/)** - Connects startups with a global workforce of remote workers.
+43. **[TechCareers](https://www.techcareers.com/)** - A job board for technology positions, including development roles.
+47. **[LanceBase](https://lancebase.io/)** - A forum and marketplace for freelancers, with a focus on tech and creative fields.
+
+### Freelance Website That is Already Inactive
 22. **CloudPeeps** - A community, marketplace, and platform that matches freelance talent with top clients.
-23. **Crossover** - Specializes in connecting companies with the best talent from around the world.
-24. **SimplyHired** - A job search engine with a wide range of job listings, including tech and development roles.
 25. **Joomlancers** - Focused on freelance work for Joomla developers and designers.
-26. **WordPress Jobs** - Dedicated to job listings for all things WordPress.
-27. **Dribbble** - A community for showcasing user-made artwork and finding freelance design and development work.
-28. **99designs** - Primarily a platform for freelance designers, but also offers development projects.
-29. **DesignCrowd** - A custom design marketplace that also caters to web and app development.
-30. **Topcoder** - Hosts online coding competitions and offers freelance coding gigs.
-31. **Ruby Now** - A job board focused on Ruby on Rails developers.
-32. **Remote OK** - Provides a list of remote jobs, including development and software engineering roles.
-33. **Laravel Jobs** - A niche job board for Laravel PHP framework developers.
-34. **React Jobs** - A dedicated platform for React developers looking for freelance or full-time roles.
-35. **PowerToFly** - Focuses on matching women in tech with remote and flexible jobs.
-36. **Loom** - Connects developers with short-term freelance projects.
-37. **We Work Remotely** - Offers remote job listings, including programming and development roles.
-38. **YunoJuno** - A UK-based platform connecting freelancers with leading brands and startups.
-39. **Hirable** - Connects pre-vetted developers with freelance projects.
-40. **Smashing Magazine Jobs** - Offers job listings in programming and web design, part of the Smashing Magazine community.
-41. **The Muse** - Provides job search resources and listings, including tech and development roles.
-42. **Outsourcely** - Connects startups with a global workforce of remote workers.
-43. **TechCareers** - A job board for technology positions, including development roles.
 44. **LocalSolo** - Matches freelance professionals with local clients.
-45. **Remotees** - An aggregator that collects remote job listings from multiple sources.
+45. **Remotees** - changed into We Work Remotely - An aggregator that collects remote job listings from multiple sources.
 46. **Moonlighting** - A platform for freelancers to offer their skills, including in technology and development.
-47. **LanceBase** - A forum and marketplace for freelancers, with a focus on tech and creative fields.
+
 
 ## Tools for Freelance Developer
 TBD
