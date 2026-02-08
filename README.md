@@ -173,7 +173,8 @@ This list will help you to decide and choose which skill and tech stack that you
 
 
 ## Tools for Freelance Developer
-TBD
+
+- [Freelance Rate Calculator (Cobalt Studio)](https://techchenko.github.io/cobaltstudio-products/tools/rate-calculator/) - Free calculator to estimate hourly + project rates from income goals, expenses, and billable hours. No signup.
 
 ## Gadgets for Freelance Developer
 TBD
