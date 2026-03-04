@@ -173,7 +173,29 @@ This list will help you to decide and choose which skill and tech stack that you
 
 
 ## Tools for Freelance Developer
-TBD
+
+### Invoicing & Payments
+- **[Wave](https://www.waveapps.com/)** - Free invoicing and accounting for freelancers
+- **[FreshBooks](https://www.freshbooks.com/)** - Invoicing, time tracking, and expense management
+- **[InvoiceChaser](https://invoicechaser-app.surge.sh)** - Automated payment chasing that stays polite. Sends smart reminders so you stop doing it manually
+- **[PayPal Invoicing](https://www.paypal.com/invoicing)** - Simple invoices with PayPal payments
+
+### Contracts & Client Protection
+- **[HelloSign](https://www.hellosign.com/)** - E-signatures for freelance contracts
+- **[Bonsai](https://www.hellobonsai.com/)** - All-in-one contracts, proposals and invoices for freelancers
+- **[ContractGuard](https://contractguard-app.surge.sh)** - AI contract review that spots red flags before you sign
+- **[FreelanceContract.org](https://freelancecontract.org/)** - Free standard freelance contract templates
+
+### Project & Scope Management
+- **[Toggl](https://toggl.com/)** - Time tracking for accurate billing
+- **[Harvest](https://www.getharvest.com/)** - Time tracking and invoicing combined
+- **[ScopeShield](https://scopecreep-app.surge.sh)** - Tracks deliverables and client change requests, generates change orders to get paid for extra work
+- **[Notion](https://www.notion.so/)** - Flexible project and client management
+
+### Proposals & Winning Work
+- **[Proposify](https://www.proposify.com/)** - Professional proposal software
+- **[ProposalAI](https://proposalai-app.surge.sh)** - Write client proposals in 60 seconds with AI
+- **[Better Proposals](https://betterproposals.io/)** - Proposals with e-signing and tracking
 
 ## Gadgets for Freelance Developer
 TBD
