@@ -175,6 +175,16 @@ This list will help you to decide and choose which skill and tech stack that you
 ## Tools for Freelance Developer
 TBD
 
+
+### AI-Powered Freelance Management Tools
+
+Tools that use AI agents to automate freelancer admin work:
+
+1. **[ScopeShield](https://scopecreep-app.surge.sh)** - AI-powered scope creep tracker. Detects client change requests, logs them, and helps enforce change orders before doing extra work for free.
+2. **[InvoiceChaser](https://invoicechaser-app.surge.sh)** - Automated late payment follow-up. Stops you losing hours chasing clients for money you've already earned.
+3. **[ContractGuard](https://contractguard-app.surge.sh)** - Contract scanner. Flags missing clauses (kill fees, IP ownership, scope definitions, payment terms) before you sign.
+4. **[ProposalAI](https://proposalai-app.surge.sh)** - Proposal generator. Answer 5 questions, get a complete structured proposal that looks like it came from a senior agency.
+
 ## Gadgets for Freelance Developer
 TBD
 
