@@ -173,7 +173,7 @@ This list will help you to decide and choose which skill and tech stack that you
 
 
 ## Tools for Freelance Developer
-TBD
+- **[BeginThings](https://beginthings.com)** — 96+ free browser-based tools for freelance developers: invoice generator, QR code maker, UTM builder, time tracker, Pomodoro timer, rate calculator, contract templates, JSON formatter, Base64 encoder, and more. No login or install required.
 
 ## Gadgets for Freelance Developer
 TBD
