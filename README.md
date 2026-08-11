@@ -173,7 +173,7 @@ This list will help you to decide and choose which skill and tech stack that you
 
 
 ## Tools for Freelance Developer
-TBD
+- [QuoteBoundary](https://quoteboundary.evanguy.chatgpt.site/?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome_freelance_developer_resources&utm_content=tools) - Free browser-based toolkit for freelance developers to scope projects, prepare quotes, and document change requests.
 
 ## Gadgets for Freelance Developer
 TBD
