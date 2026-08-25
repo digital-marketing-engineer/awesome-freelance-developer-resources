@@ -173,7 +173,7 @@ This list will help you to decide and choose which skill and tech stack that you
 
 
 ## Tools for Freelance Developer
-TBD
+- **[Toolkit Labs Invoice](https://github.com/YtinuMoc/toolkitlabs-invoice)** — Free browser invoice/receipt generator (print or save as PDF, no account). [Commercial license (EUR 249)](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesome-freelance-dev-resources-v1) adds white-label PDFs, 6 templates, unlimited batch CLI. [Live demo](https://ytinumoc.github.io/toolkitlabs-invoice/).
 
 ## Gadgets for Freelance Developer
 TBD
