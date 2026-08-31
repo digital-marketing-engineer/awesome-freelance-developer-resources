@@ -173,7 +173,7 @@ This list will help you to decide and choose which skill and tech stack that you
 
 
 ## Tools for Freelance Developer
-TBD
+- **[Ibis](https://cartonpliant.github.io/ibis/)** - Compose a one-page commercial offer in the browser. Free with watermark; Pro 9 € unlocks clean print, Markdown, and 5 layouts.
 
 ## Gadgets for Freelance Developer
 TBD
