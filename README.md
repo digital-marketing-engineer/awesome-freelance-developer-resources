@@ -173,6 +173,21 @@ This list will help you to decide and choose which skill and tech stack that you
 
 
 ## Tools for Freelance Developer
+
+### Finance & Tax Calculators
+
+- **[SmartBizCalc](https://smartbizcalc.com/)** - Free suite of 380+ business financial calculators for freelancers and self-employed developers: 1099 vs W-2 cost comparison, self-employment tax (SECA 15.3%), quarterly estimated tax, S-corp salary vs distribution, hourly rate calculator, and contractor markup. No signup required.
+
+### Project Management
+
+TBD
+
+### Invoicing & Payments
+
+TBD
+
+### Time Tracking
+
 TBD
 
 ## Gadgets for Freelance Developer
