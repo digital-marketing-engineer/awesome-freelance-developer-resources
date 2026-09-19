@@ -174,6 +174,7 @@ This list will help you to decide and choose which skill and tech stack that you
 
 ## Tools for Freelance Developer
 TBD
+- **[Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/)** - Free browser invoice/quote/rate tools plus a bilingual WhatsApp close pack for freelancers.
 
 ## Gadgets for Freelance Developer
 TBD
