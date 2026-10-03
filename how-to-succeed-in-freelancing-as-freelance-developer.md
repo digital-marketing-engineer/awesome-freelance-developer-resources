@@ -132,6 +132,7 @@ As a freelance developer, finding consistent and rewarding work is crucial. This
 ## Using Freelance Platforms
 
 - **Create Profiles on Major Platforms**: Join websites like Upwork, Freelancer, and Toptal.
+- **Evaluate Listings Before Applying**: Use a [10-signal scoring rubric](https://syntheticminds.app/blog/how-to-score-an-upwork-job-before-you-apply) to assess Upwork jobs before spending Connects.
 - **Bid on Projects**: Write personalized proposals that highlight how your skills match the project requirements.
 - **Build Your Reputation**: Aim for positive reviews and ratings by delivering quality work on time.
 
