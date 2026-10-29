@@ -173,7 +173,7 @@ This list will help you to decide and choose which skill and tech stack that you
 
 
 ## Tools for Freelance Developer
-TBD
+1. **[ScopeLine](https://scopeline-xi.vercel.app/)** - Change-order and scope-creep log for freelance developers.
 
 ## Gadgets for Freelance Developer
 TBD
